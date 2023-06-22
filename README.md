@@ -28,4 +28,5 @@ To run Image Pro locally, create a .env file at the root of the project and add 
 ```javascript
 API_PUBLIC_KEY = { your_api_public_key };
 API_PRIVATE_KEY = { your_api_private_key };
+API_BASE_URL = 'https://gateway.marvel.com/v1/public';
 ```
