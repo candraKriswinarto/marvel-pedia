@@ -4,7 +4,7 @@ Marvel Pedia is a web application built with Next.js and Tailwind CSS that allow
 
 ## 🎥 Video Tutorial
 
-To see a step-by-step guide on how to build this project, check out our [YouTube tutorial](https://youtu.be/7mUnGh4XRek) where we walk through each step of the process.
+To see a step-by-step guide on how to build this project, check out our [YouTube tutorial](https://youtu.be/IB5VNKL3iL8) where we walk through each step of the process.
 
 ### 🚀 Getting Started
 
